@@ -14,3 +14,11 @@ p {
     color: #666;
     line-height: 1.6;
 }
+.sidebar-top{
+    background-color: rgba(15, 165, 72, 0.568);
+    color: crimson;
+}
+.sidebar-bottom{
+    background-color: rgb(211, 84, 34);
+    color: yellow;
+}
